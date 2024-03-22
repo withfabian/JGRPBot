@@ -1,12 +1,19 @@
-# jgrp-discord-bot
-A discord bot for jogjagamers samp server
+# BOT Discord By JGRP
 
-https://jogjagamers.org/topic/168609-jgrp-bot-discord/
+## Cara Pemasangan
 
-# Dependencies 
-discord.js
+Konfigurasi File `config.json`
 
-# Run 
-node index.js
 
-enjoy
+Setelah Konfigurasi Benar Jalankan Terminal Lalu Ketik
+
+```
+npm install
+```
+
+Setelah Itu Cari File Bernama `bot.bat`
+lalu Klik 2 Kali
+
+
+
+### NOTE : PASTIKAN KALIAN SUDAH MENGINSTALL NODE JS DI GOOGLE ATAU CHROME
